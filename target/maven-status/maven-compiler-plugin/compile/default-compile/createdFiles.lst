@@ -1,0 +1,13 @@
+com/codenvy/cloudide/ext/minecraft/client/MineCraftLocalization.class
+com/codenvy/cloudide/ext/minecraft/server/MineMixTypeModule.class
+com/codenvy/cloudide/ext/minecraft/client/action/SetUpdatePropertyAction.class
+com/codenvy/cloudide/ext/minecraft/client/update/SetPropertyHandler.class
+com/codenvy/cloudide/ext/minecraft/client/action/SetSaveMapPropertyAction.class
+com/codenvy/cloudide/ext/minecraft/client/action/AbstractProjectAction.class
+com/codenvy/cloudide/ext/minecraft/shared/Properties.class
+com/codenvy/cloudide/ext/minecraft/client/update/SetPropertyHandler$1.class
+com/codenvy/cloudide/ext/minecraft/client/inject/MineCraftGinModule.class
+com/codenvy/cloudide/ext/minecraft/client/MineCraftExtension$1.class
+com/codenvy/cloudide/ext/minecraft/client/MineCraftExtension.class
+com/codenvy/cloudide/ext/minecraft/client/MineCraftResources.class
+com/codenvy/cloudide/ext/minecraft/server/MineMixType.class

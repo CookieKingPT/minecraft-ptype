@@ -1,0 +1,11 @@
+/codenvy/che-plugin-hot-deployer/src/main/java/com/codenvy/cloudide/ext/minecraft/shared/Properties.java
+/codenvy/che-plugin-hot-deployer/src/main/java/com/codenvy/cloudide/ext/minecraft/client/inject/MineCraftGinModule.java
+/codenvy/che-plugin-hot-deployer/src/main/java/com/codenvy/cloudide/ext/minecraft/server/MineMixType.java
+/codenvy/che-plugin-hot-deployer/src/main/java/com/codenvy/cloudide/ext/minecraft/server/MineMixTypeModule.java
+/codenvy/che-plugin-hot-deployer/src/main/java/com/codenvy/cloudide/ext/minecraft/client/MineCraftResources.java
+/codenvy/che-plugin-hot-deployer/src/main/java/com/codenvy/cloudide/ext/minecraft/client/MineCraftExtension.java
+/codenvy/che-plugin-hot-deployer/src/main/java/com/codenvy/cloudide/ext/minecraft/client/action/AbstractProjectAction.java
+/codenvy/che-plugin-hot-deployer/src/main/java/com/codenvy/cloudide/ext/minecraft/client/MineCraftLocalization.java
+/codenvy/che-plugin-hot-deployer/src/main/java/com/codenvy/cloudide/ext/minecraft/client/update/SetPropertyHandler.java
+/codenvy/che-plugin-hot-deployer/src/main/java/com/codenvy/cloudide/ext/minecraft/client/action/SetUpdatePropertyAction.java
+/codenvy/che-plugin-hot-deployer/src/main/java/com/codenvy/cloudide/ext/minecraft/client/action/SetSaveMapPropertyAction.java
